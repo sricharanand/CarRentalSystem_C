@@ -1,0 +1,23 @@
+Car Company,Model,Car Code,Mileage,CC,Availability,Price Per Day
+Bugatti,Chiron,1,6.00,7993,Not_Available,1000.00
+Ferrari,SF90,2,6.00,3990,Available,1000.00
+Lamborghini,Aventador,3,7.00,6498,Available,1000.00
+McLaren,720S,4,8.00,3994,Available,1000.00
+Koenigsegg,Jesko,6,5.00,5000,Available,1000.00
+Pagani,Huayra,7,5.00,5980,Available,1000.00
+Aston Martin,Valhalla,8,6.00,3998,Available,1000.00
+Mercedes Benz,AMG,9,8.00,3982,Available,1000.00
+Ford,GT,10,8.00,3500,Available,1000.00
+Audi,R8,11,7.00,5204,Available,1000.00
+Maserati,MC20,12,8.00,3000,Available,1000.00
+Nissan,GT-R,13,9.00,3779,Available,1000.00
+BMW,M8,14,9.00,4395,Available,1000.00
+Chevrolet,Corvette,15,10.00,6162,Available,1000.00
+Rimac,Viper,16,5.00,8387,Available,1000.00
+Bentley,Continental,18,7.00,5950,Available,1000.00
+Rolls Royce,Wraith,19,6.00,6592,Available,1000.00
+Lotus,LFA,20,6.00,4805,Available,1000.00
+Toyota,Supra,22,12.00,2998,Available,1000.00
+Subaru,WRXSTI,23,10.00,2457,Available,1000.00
+Honda,NSX,24,12.00,3493,Available,1000.00
+Renault,A110,26,14.00,1798,Not_Available,1000.00
