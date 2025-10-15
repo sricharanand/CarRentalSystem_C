@@ -1,4 +1,4 @@
-### CAR RENTAL SYSTEM
+### CAR RENTAL SYSTEM - PROJECT FOR THE "PROGRAMMING IN C" COURSE
 This Car Rental System is a comprehensive command-line-based application designed to manage a car rental company's operations. 
 The system allows customers to rent cars, employees to manage the car database, and provides administrative controls for managing users, employees, and rented cars. 
 The project uses CSV files for data storage, ensuring persistence, and linked lists for dynamic data manipulation during runtime.
@@ -49,4 +49,5 @@ The project is divided into five separate C files for modularity and better orga
 - **User Management:** User registration, login, and rental history tracking, deleting data of user.
 - **Employee Management:** Employee login, addition, deletion, and modification.
 - **Rented Car Tracking:** Renting cars and viewing rental records.
+
 - **Data Persistence:** All data is stored in CSV files for future use.
